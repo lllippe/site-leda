@@ -1,0 +1,22 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: var(--color-eleven);
+}
+
+.footer-p {
+    padding: 10vh 0;
+    font-family: var(--font-seven);
+    font-size: 4vh;
+    color: var(--color-two);
+}
+
+.footer-link {
+    text-decoration: none;
+}
+
+@media screen and (max-width:800px) {
+    .footer-p {
+        font-size: 6vh;
+    }
+}

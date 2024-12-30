@@ -1,0 +1,36 @@
+@import url('header.css');
+@import url('consults.css');
+@import url('about.css');
+@import url('blog.css');
+@import url('footer.css');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Playwrite+BR+Guides&family=Signika:wght@300..700&display=swap&family=Pacifico&family=Indie+Flower&family=Noto+Sans+Mono:wght@100..900&family=Permanent+Marker');
+
+:root {
+    --font-one: Dancing Script;
+    --font-two: Playwrite;
+    --font-tree: Signika;
+    --font-four: Pacifico;
+    --font-five: Indie Flower;
+    --font-six: Noto Sans Mono;
+    --font-seven: Permanent Marker;
+    --color-one: #732734;
+    --color-two: #8D2641;
+    --color-tree: #D9B3BE;
+    --color-four: #F2CED8;
+    --color-five: #FAACC4;
+    --color-six: #8C2129;
+    --color-seven: #8B423B;
+    --color-eight: #C0726E;
+    --color-nine: #DB978E;
+    --color-ten: #D9A597;
+    --color-eleven: #CEBEBE;
+    --color-twelve: #EBE3D0;
+    --color-thirteen: #D6B9B3;
+    --color-fourteen: #A26769;
+    --color-fifthteen: #6E2E46;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
