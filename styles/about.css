@@ -208,3 +208,44 @@
     }
 
 }
+
+@media screen and (max-width: 425px) {
+    .about-h2 {
+        font-size: 10vh;
+    }
+
+    .information-detail-h3 {
+        font-size: 5vh;
+        text-align: center;
+    }
+
+    .about-information-nav-formation {
+        font-size: 2.5vh;
+    }
+
+    .description {
+        font-size: 5vh;
+        text-align: center;
+    }
+
+    .about-information {
+        margin: 1.5vh;
+        padding: 1.2vh;
+    }
+
+    .about-formation-nav-h2 {
+        font-size: 3vh;
+        margin-top: 2vh;
+        padding: 1vh;
+    }
+
+    .about-information-nav-h2 {
+        font-size: 3vh;
+        padding: 1vh;
+        margin-bottom: 10vh;
+    }
+
+    .about-information-nav {
+        flex-direction: column;
+    }
+}

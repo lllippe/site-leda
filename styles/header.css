@@ -227,3 +227,39 @@
     }
 
 }
+
+@media screen and (max-width:425px) {
+    .menu-hamburger {
+        display: block;
+        width: 6vh;
+        padding: 3vh 3vh;
+    }
+
+    .name-register-h1 {
+        font-size: 8vh;
+        padding-left: 0;
+    }
+
+    .header-desktop-bottom-img {
+        width: 45vh;
+    }
+
+    .name-register-h2 {
+        font-size: 2.5vh;
+    }
+
+    .header-desktop-bottom-right-content-h2 {
+        font-size: 6vh;
+        text-align: center;
+    }
+
+    .header-desktop-bottom-right-content-p {
+        font-size: 6vh;
+        padding: 9vh;
+        text-align: center;
+    }
+
+    .header-desktop-bottom-img {
+        padding: 0;
+    }
+}
