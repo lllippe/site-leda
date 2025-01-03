@@ -12,18 +12,20 @@
 <body>
     <header class="header">
         <section class="header-desktop">
-            <button class="header-mobile-menu" id="header-mobile-menu">
-                <img src="./assets/img/bars-solid.svg" alt="menu-hamburger" class="menu-hamburger">
-            </button>
+            <div class="menu-button-header">
+                <button class="header-mobile-menu" id="header-mobile-menu">
+                    <img src="./assets/img/bars-solid.svg" alt="menu-hamburger" class="menu-hamburger">
+                </button>
+            </div>
             <div class="name-register">
                 <h1 class="name-register-h1">Dra Leda</h1>
                 <h2 class="name-register-h2">CRM-SP 999.999 / RQE 999.999</h2>
             </div>
             <div class="nav-bar">
-                <a class="nav-bar-left">Home</a>
-                <a class="nav-bar-center">Consultas</a>
-                <a class="nav-bar-center">Sobre mim</a>
-                <a class="nav-bar-right">Blog</a>
+                <a href="index.html" class="nav-bar-left">Home</a>
+                <a href="#consults" class="nav-bar-center">Consultas</a>
+                <a href="#about" class="nav-bar-center">Sobre mim</a>
+                <a href="blog/index.html" class="nav-bar-right">Blog</a>
             </div>
             <div class="list-menu-mobile" id="list-menu-mobile">
                 <ul class="list-menu">
@@ -31,21 +33,21 @@
                         <a href="index.html" class="list-menu-link">Home</a>
                     </li>
                     <li class="list-menu-item" id="list-menu-item">
-                        <a href="index.html" class="list-menu-link">Consultas</a>
+                        <a href="#consults" class="list-menu-link">Consultas</a>
                     </li>
                     <li class="list-menu-item" id="list-menu-item">
-                        <a href="index.html" class="list-menu-link">Sobre mim</a>
+                        <a href="#about" class="list-menu-link">Sobre mim</a>
                     </li>
                     <li class="list-menu-item" id="list-menu-item">
-                        <a href="index.html" class="list-menu-link">Blog</a>
+                        <a href="blog/index.html" class="list-menu-link">Blog</a>
                     </li>
                 </ul>
             </div>
         </section>
-        <section class="header-desktop-bottom">
+        <section class="header-desktop-bottom" id="header">
             <div class="header-desktop-bottom-right-content">
                 <h2 class="header-desktop-bottom-right-content-h2">Bem-vindo ao site da Dra Leda!</h2>
-                <p class="header-desktop-bottom-right-content-p"><a href="#" class="consult-date">Veja a agenda da Dra. Leda e marque agora sua consulta!</a></p>                
+                <a href="https://api.whatsapp.com/send?phone=5511978844101&amp;text=Olá, estou vindo pelo site da Dra. Leda e gostaria de agendar uma consulta com ela!" class="header-desktop-bottom-right-content-p">Veja a agenda da Dra. Leda e marque agora sua consulta!</a>
             </div>
             <img class="header-desktop-bottom-img" src="./assets/img/doctor-banner.png" alt="Dra Leda">
         </section>
@@ -53,13 +55,13 @@
             <div class="header-desktop-bottom-right-content">
                 <img class="header-desktop-bottom-img" src="./assets/img/doctor-banner.png" alt="Dra Leda">
                 <h2 class="header-desktop-bottom-right-content-h2">Bem-vindo ao site da Dra Leda!</h2>
-                <p class="header-desktop-bottom-right-content-p"><a href="#" class="consult-date">Veja a agenda da Dra. Leda e marque agora sua consulta!</a></p>                
+                <a href="https://api.whatsapp.com/send?phone=5511978844101&amp;text=Olá, estou vindo pelo site da Dra. Leda e gostaria de agendar uma consulta com ela!" class="header-desktop-bottom-right-content-p">Veja a agenda da Dra. Leda e marque agora sua consulta!</a>
             </div>
         </section>
     </header>
 
     <main>
-        <section class="consults">
+        <section class="consults" id="consults">
             <h2 class="consults-h2">Consultas</h2>
             <div class="consults-types">
                 <div class="consults-types-details">
@@ -77,7 +79,7 @@
             </div>
         </section>
 
-        <section class="about">
+        <section class="about" id="about">
             <h2 class="about-h2">Informações acadêmicas e profissionais</h2>
             <div class="about-information">
                 <div class="about-information-nav">
@@ -160,7 +162,7 @@
             </div>
         </section>
 
-        <section class="blog">
+        <section class="blog-index" id="blog-index">
             <h2 class="blog-h2">Blog</h2>
             <div class="swiper">
                     
@@ -168,42 +170,42 @@
 
                 <div class="swiper-wrapper">
                   
-                    <div class="swiper-slide">
-                        <img src="./assets/img/blog_1.png" alt="Vacina">
+                    <a href="blog/1/index.html" class="swiper-slide">
+                        <img class="swiper-slide-img" src="./assets/img/blog_1.png" alt="Vacina">
                         <p class="swiper-slide-p">Por Dra. Leda</p>
                         <h3 class="swiper-slide-h3">Calendário de vacinação</h3>
                         <p class="swiper-slide-p">27 de Dezembro de 2024</p>
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="./assets/img/blog_1.png" alt="Vacina">
+                    </a>
+                    <a href="blog/1/index.html" class="swiper-slide">
+                        <img class="swiper-slide-img" src="./assets/img/blog_1.png" alt="Vacina">
                         <p class="swiper-slide-p">Por Dra. Leda</p>
                         <h3 class="swiper-slide-h3">Calendário de vacinação</h3>
                         <p class="swiper-slide-p">27 de Dezembro de 2024</p>
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="./assets/img/blog_1.png" alt="Vacina">
+                    </a>
+                    <a href="blog/1/index.html" class="swiper-slide">
+                        <img class="swiper-slide-img" src="./assets/img/blog_1.png" alt="Vacina">
                         <p class="swiper-slide-p">Por Dra. Leda</p>
                         <h3 class="swiper-slide-h3">Calendário de vacinação</h3>
                         <p class="swiper-slide-p">27 de Dezembro de 2024</p>
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="./assets/img/blog_1.png" alt="Vacina">
+                    </a>
+                    <a href="blog/1/index.html" class="swiper-slide">
+                        <img class="swiper-slide-img" src="./assets/img/blog_1.png" alt="Vacina">
                         <p class="swiper-slide-p">Por Dra. Leda</p>
                         <h3 class="swiper-slide-h3">Calendário de vacinação</h3>
                         <p class="swiper-slide-p">27 de Dezembro de 2024</p>
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="./assets/img/blog_1.png" alt="Vacina">
+                    </a>
+                    <a href="blog/1/index.html" class="swiper-slide">
+                        <img class="swiper-slide-img" src="./assets/img/blog_1.png" alt="Vacina">
                         <p class="swiper-slide-p">Por Dra. Leda</p>
                         <h3 class="swiper-slide-h3">Calendário de vacinação</h3>
                         <p class="swiper-slide-p">27 de Dezembro de 2024</p>
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="./assets/img/blog_1.png" alt="Vacina">
+                    </a>
+                    <a href="blog/1/index.html" class="swiper-slide">
+                        <img class="swiper-slide-img" src="./assets/img/blog_1.png" alt="Vacina">
                         <p class="swiper-slide-p">Por Dra. Leda</p>
                         <h3 class="swiper-slide-h3">Calendário de vacinação</h3>
                         <p class="swiper-slide-p">27 de Dezembro de 2024</p>
-                    </div>
+                    </a>
                 </div>
              
                 <div class="swiper-button-prev"></div>
@@ -211,48 +213,56 @@
 
             </div>
 
-            <div class="swiper-mobile">
+            <div class="blog-button-grid">
+                <a href="/blog/index.html" class="blog-button">Ver todos</a>
+            </div>
+        </section>
+
+        <section class="blog-mobile-index" id="blog-mobile-index">
+            <h2 class="blog-h2">Blog</h2>
+
+            <div class="swiper swiper-mobile">
                     
                 <div class="swiper-pagination-mobile"></div>
 
                 <div class="swiper-wrapper">
                   
-                    <div class="swiper-slide">
-                        <img src="./assets/img/blog_1.png" alt="Vacina">
+                    <a href="blog/1/index.html" class="swiper-slide">
+                        <img class="swiper-slide-img" src="./assets/img/blog_1.png" alt="Vacina">
                         <p class="swiper-slide-p">Por Dra. Leda</p>
                         <h3 class="swiper-slide-h3">Calendário de vacinação</h3>
                         <p class="swiper-slide-p">27 de Dezembro de 2024</p>
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="./assets/img/blog_1.png" alt="Vacina">
+                    </a>
+                    <a href="blog/1/index.html" class="swiper-slide">
+                        <img class="swiper-slide-img" src="./assets/img/blog_1.png" alt="Vacina">
                         <p class="swiper-slide-p">Por Dra. Leda</p>
                         <h3 class="swiper-slide-h3">Calendário de vacinação</h3>
                         <p class="swiper-slide-p">27 de Dezembro de 2024</p>
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="./assets/img/blog_1.png" alt="Vacina">
+                    </a>
+                    <a href="blog/1/index.html" class="swiper-slide">
+                        <img class="swiper-slide-img" src="./assets/img/blog_1.png" alt="Vacina">
                         <p class="swiper-slide-p">Por Dra. Leda</p>
                         <h3 class="swiper-slide-h3">Calendário de vacinação</h3>
                         <p class="swiper-slide-p">27 de Dezembro de 2024</p>
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="./assets/img/blog_1.png" alt="Vacina">
+                    </a>
+                    <a href="blog/1/index.html" class="swiper-slide">
+                        <img class="swiper-slide-img" src="./assets/img/blog_1.png" alt="Vacina">
                         <p class="swiper-slide-p">Por Dra. Leda</p>
                         <h3 class="swiper-slide-h3">Calendário de vacinação</h3>
                         <p class="swiper-slide-p">27 de Dezembro de 2024</p>
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="./assets/img/blog_1.png" alt="Vacina">
+                    </a>
+                    <a href="blog/1/index.html" class="swiper-slide">
+                        <img class="swiper-slide-img" src="./assets/img/blog_1.png" alt="Vacina">
                         <p class="swiper-slide-p">Por Dra. Leda</p>
                         <h3 class="swiper-slide-h3">Calendário de vacinação</h3>
                         <p class="swiper-slide-p">27 de Dezembro de 2024</p>
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="./assets/img/blog_1.png" alt="Vacina">
+                    </a>
+                    <a href="blog/1/index.html" class="swiper-slide">
+                        <img class="swiper-slide-img" src="./assets/img/blog_1.png" alt="Vacina">
                         <p class="swiper-slide-p">Por Dra. Leda</p>
                         <h3 class="swiper-slide-h3">Calendário de vacinação</h3>
                         <p class="swiper-slide-p">27 de Dezembro de 2024</p>
-                    </div>
+                    </a>
                 </div>
              
                 <div class="swiper-button-prev"></div>
@@ -260,7 +270,7 @@
 
             </div>
             <div class="blog-button-grid">
-                <a class="blog-button">Ver todos</a>
+                <a href="/blog/index.html" class="blog-button">Ver todos</a>
             </div>
         </section>
     </main>
@@ -281,7 +291,7 @@
             },
             
         });
-        var swiper = new Swiper('.swiper-mobile', {
+        var swiper_mobile = new Swiper('.swiper-mobile', {
             spaceBetween: 30,
             slidesPerView: 2,
             pagination : {

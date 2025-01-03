@@ -6,6 +6,7 @@
     display: flex;
     flex-direction: row;
     border-bottom: solid 0.2vh var(--color-ten);
+    
 }
 
 .name-register {
@@ -38,15 +39,21 @@
 .nav-bar-left {
     border-right: solid 0.5vh var(--color-one);        
     padding: 0.3vh 4vh 0 4vh; 
+    text-decoration: none;
+    color: var(--color-one);
 }
 
 .nav-bar-center {
     border-right: solid 0.5vh var(--color-one);        
     padding: 0.3vh 4vh 0 4vh; 
+    text-decoration: none;
+    color: var(--color-one);
 }
 
 .nav-bar-right {
     padding: 0.3vh 6vh 0 4vh; 
+    text-decoration: none;
+    color: var(--color-one);
 }
 
 .nav-bar-left:hover {
@@ -87,24 +94,22 @@
     font-family: var(--font-one);
     font-size: 6vh;
     color: var(--color-one);
-    margin: 0 0 5vh 13vh;
+    margin: 0 0 5vh 20vh;
 }
 
 .header-desktop-bottom-right-content-p {
+    text-decoration: none;
+    color: var(--color-twelve);
     font-family: var(--font-two);
     font-size: 5vh;
     font-weight: 600;
-    color: var(--color-twelve);
     background-color: var(--color-fourteen);
     border-radius: 8vh;
+    border: solid 0.3vh var(--color-fourteen);
     padding: 10vh;
-    margin: 2vh 45vh 0 15vh;
+    margin: 2vh 30vh 0 15vh;
     text-align: center;
-}
-
-.consult-date {
-    text-decoration: none;
-    color: var(--color-twelve);
+    width: 50%;
 }
 
 .header-mobile-bottom {
@@ -119,13 +124,36 @@
     display:none
 }
 
+.header-desktop-bottom-right-content-p:hover {
+    background-color: var(--color-twelve);
+    border-radius: 8vh;
+    border: solid 0.3vh var(--color-one);
+    color: var(--color-one);
+}
+
+.menu-button-header {
+    display: none;
+}
+
 @media screen and (max-width:900px) {
+    .menu-button-header{
+        display: block;
+    }
+
     .header-desktop-bottom-right-content-p {
         margin: 2vh 20vh 0 20vh;
     }
 }
 
 @media screen and (max-width:800px) {
+    .menu-button-header{
+        display: block;
+    }
+
+    .header-mobile-menu {
+        display: block;
+    }
+
     .header-desktop-bottom {
         display: none;
     }
@@ -148,6 +176,7 @@
 
     .header-desktop-bottom-right-content-p {
         font-size: 8vh;
+        width: 50%;
     }
 
     .nav-bar {
@@ -167,7 +196,7 @@
     .menu-hamburger {
         display: block;
         width: 10vh;
-        padding: 0 6vh;
+        padding: 8vh 6vh;
     }
 
     .header-mobile-menu {
