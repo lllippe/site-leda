@@ -211,7 +211,7 @@
 
 @media screen and (max-width: 425px) {
     .about-h2 {
-        font-size: 10vh;
+        font-size: 7vh;
     }
 
     .information-detail-h3 {
@@ -224,7 +224,7 @@
     }
 
     .description {
-        font-size: 5vh;
+        font-size: 3vh;
         text-align: center;
     }
 
@@ -247,5 +247,9 @@
 
     .about-information-nav {
         flex-direction: column;
+    }
+
+    .line {
+        margin-left: 0.8vh;
     }
 }

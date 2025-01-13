@@ -236,8 +236,12 @@
     }
 
     .name-register-h1 {
-        font-size: 8vh;
+        font-size: 7vh;
         padding-left: 0;
+    }
+
+    .name-register {
+        padding-left: 2vh;
     }
 
     .header-desktop-bottom-img {
