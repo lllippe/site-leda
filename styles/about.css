@@ -103,7 +103,7 @@
 .line {
     border-left: solid 0.4vh var(--color-twelve);
     height: 8vh;
-    margin-left: 1.2vh;
+    margin-left: 0.8vh;
 }
 
 .information-detail-link {
@@ -163,7 +163,7 @@
 
 @media screen and (max-width:1400px) {
     .line {
-        margin-left: 1.8vh;
+        margin-left: 1vh;
     }
    
 }
@@ -203,7 +203,7 @@
     }
 
     .line {
-        margin-left: 2vh;
+        margin-left: 0.8vh;
         height: 20vh;
     }
 
