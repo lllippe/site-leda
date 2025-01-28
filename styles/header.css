@@ -1,5 +1,8 @@
 .header {
+    background-image: url("../assets/img/arabesco_fundo.png");
     background-color: var(--color-twelve);
+    
+    
 }
 
 .header-desktop {
@@ -80,8 +83,9 @@
 }
 
 .header-desktop-bottom-img{
-    width: 60vh;
+    width: 35vw;
     padding: 0 18vh;
+    margin: 8vh 0;
 }
 
 .header-desktop-bottom-right-content {
@@ -94,7 +98,8 @@
     font-family: var(--font-one);
     font-size: 6vh;
     color: var(--color-one);
-    margin: 0 0 5vh 20vh;
+    margin: 0 0 5vh 10vh;
+    text-align: center;
 }
 
 .header-desktop-bottom-right-content-p {
