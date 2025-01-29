@@ -441,8 +441,16 @@
         padding-bottom: 2vh;
     }
 
+    .blog-recent-h2 {
+        font-size: 6vh;
+    }
+
     .blog-recent {
         font-size: 8vh;
+    }
+
+    .blog-card-p {
+        font-size: 3vh;
     }
 
     .blog-recent-card {
@@ -475,4 +483,19 @@
     .final {
         padding: 2vh;
     }
+
+    .mobile-blog-h2 {
+        font-size: 7vh;
+        padding-bottom: 10vh;
+    }
+
+    .mobile-p {
+        font-size: 3vh;
+        font-weight: normal;
+    }
+
+    .blog-card-h3 {
+        font-size: 5vh;
+    }
+
 }
