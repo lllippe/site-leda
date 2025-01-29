@@ -14,14 +14,14 @@ function menuMobile(evento) {
         } else {
             listMenuMobile.style.display = "block";
             listMenuMobile.style.position = "absolute";
-            listMenuMobile.style.top = "30%";
+            listMenuMobile.style.top = "15%";
             listMenuMobile.style.left = "3%";
-            listMenuMobile.style.paddingLeft = "10vh";
+            listMenuMobile.style.paddingLeft = "5vh";
             listMenuMobile.style.border = "solid 0.2vh var(--color-one)";
             listMenuMobile.style.borderRadius = "2vh";
             listMenuMobile.style.backgroundColor = "var(--color-seven)";
-            listMenuMobile.style.width = "40vh";
-            listMenuMobile.style.height = "40vh";
+            listMenuMobile.style.width = "20vh";
+            listMenuMobile.style.height = "18vh";
         }
     } 
 }
