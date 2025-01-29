@@ -1,5 +1,5 @@
 .header {
-    background-image: url("../assets/img/arabesco_fundo.png");
+    background-image: url("../assets/img/fundo_arabesco.png");
     background-color: var(--color-twelve);
     
     
@@ -241,8 +241,9 @@
     }
 
     .name-register-h1 {
-        font-size: 7vh;
+        font-size: 5vh;
         padding-left: 0;
+        padding-top: 2vh;
     }
 
     .name-register {
@@ -254,21 +255,30 @@
     }
 
     .name-register-h2 {
-        font-size: 2.5vh;
+        font-size: 1.2vh;
     }
 
     .header-desktop-bottom-right-content-h2 {
-        font-size: 6vh;
+        font-size: 4vh;
         text-align: center;
+        padding: 0;
     }
 
     .header-desktop-bottom-right-content-p {
-        font-size: 6vh;
-        padding: 9vh;
+        font-size: 4vh;
+        padding: 6vh;
         text-align: center;
     }
 
     .header-desktop-bottom-img {
         padding: 0;
+    }
+
+    .list-menu-link {
+        font-size: 3.5vh;
+    }
+
+    .list-menu-mobile {
+        padding-top: 2vh;
     }
 }

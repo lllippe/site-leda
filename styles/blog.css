@@ -424,12 +424,12 @@
 
 @media screen and (max-width: 425px) {
     .swiper-slide-h3 {
-        font-size: 4vh;
+        font-size: 3vh;
         padding: 5vh;
     }
     
     .swiper-slide-p {
-        font-size: 3vh;
+        font-size: 2.3vh;
     }
 
     .blog-button {
@@ -437,7 +437,8 @@
     }
 
     .blog-h2 {
-        font-size: 10vh;
+        font-size: 8vh;
+        padding-bottom: 2vh;
     }
 
     .blog-recent {
