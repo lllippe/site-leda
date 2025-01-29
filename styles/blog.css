@@ -467,16 +467,22 @@
     }
 
     .blog-post-content-h2 {
-        font-size: 10vh;
+        font-size: 7vh;
         text-align: center;
-        padding: 2vh;
+        padding: 5vh;
+    }
+
+    .blog-post-content-h3 {
+        font-size: 3vh;
+        padding-top: 3vh;
     }
 
     .blog-post-content-img {
-        width: 50vh;
+        width: 40vh;
     }
 
     .blog-post-content-p {
+        font-size: 2.5vh;
         padding: 2vh;
     }
 
