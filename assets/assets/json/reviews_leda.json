@@ -1,0 +1,386 @@
+[
+    {
+        "nome": "Danubia Fujita",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "A dra. Leda é muito paciente e carinhosa com meu filho. Ela explica tudo com calma e detalha bem porque está tomando determinada conduta. Para pais de primeira viagem, recomendo muito. Ela responde no whats, indica se é pra ir pro PS ou que remédio usar.",
+        "data": "3 de março de 2026",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Alan Pereira",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Tudo sensacional. Ótimo atendimento. Muito atenciosa.",
+        "data": "23 de dezembro de 2025",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Mari",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Simplesmente maravilhosa um anjo na minha vida , muito atenciosa , humilde , uma excelente profissional, muito feliz por ter encontrado a pediatra certa para minha filha !",
+        "data": "9 de abril de 2025",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "J.M.G",
+        "tipo": "Opinião Verificada",
+        "nota": 5,
+        "review": "Médica extremamente atenciosa, consulta completa. Recomendo !",
+        "data": "19 de março de 2025",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Renata",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Atendimento excelente, com cuidado, carinho e atenção.",
+        "data": "6 de novembro de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Bianca",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Profissional muito atenciosa e qualificada, adoramos a tia Leda",
+        "data": "29 de outubro de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Mariana da Rocha",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Que sorte foi achar a Dra Leda para a minha filha! O atendimento é excelente durante todo o acompanhamento, seja dentro ou fora do consultório. Um amor de pessoa com a criança e comigo também. Não me canso de agradecer por tudo que faz por nós. Pediatra que não trocamos por nada!!!!",
+        "data": "23 de outubro de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Mayara Luiza",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Extremamente atenciosa com os detalhes e sem pressa para explicar e tirar as dúvidas dos pais, além de muito simpática e humana. Espero que acompanhe meu filho por anos",
+        "data": "13 de outubro de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Martha Lobato",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Médica extremamente atenciosa, clara, didática. Desde o atendimento na recepção até a médica só tenho a agradecer.",
+        "data": "2 de outubro de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Gabriella",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Ótima profissional um amor de pessoa ! Muito atenciosa explica tudo muito detalhado. Consulta bem rica em informações!!! E sempre está disponível para atender qualquer dúvida.",
+        "data": "1 de outubro de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Andressa",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Super atenciosa, cuidadosa, conquistou meu filho antes da consulta",
+        "data": "17 de setembro de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Juliana",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Dra. Leda é maravilhosa. Super atenciosa, ótima profissional .",
+        "data": "11 de agosto de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Patrícia Soares",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Atenciosa, super carinhosa e paciente com as dúvidas dos pais de primeira viagem!",
+        "data": "9 de agosto de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Aline Araujo",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "A Dra. Leda é uma excelente profissional, muito atenciosa e pontual. Explica tudo detalhadamente e cuida da minha filha com muito carinho. Simplesmente a melhor Pediatra",
+        "data": "20 de julho de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Priscila Lacerda",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Dra Leda é alguém realmente apaixonada pelo que faz. Trata a criança com ternura, sempre atenta e dedicada. Faz dos dias de consulta serem leves e esperançosos, sempre explicando e tranquilizando os pais.",
+        "data": "18 de julho de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Gabriela Alves",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Ótima médica! Atenciosa, carinhosa e além de tirar todas as dúvidas, explica cada processo do desenvolvimento do bebê. Passamos em uma consulta de urgência com minha rn e saímos com coração mais tranquilo.",
+        "data": "4 de julho de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Edila Pessoa",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Ela é incrível! Estou tão feliz que encontrei alguém humano e atencioso. Muito acolhedora. Está na profissão certa!",
+        "data": "26 de junho de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Renata",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Médica muito muito maravilhosa e atenciosa. Adorei o cuidado com o meu filho",
+        "data": "26 de junho de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Danielle Pinheiro Barroso",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Médica maravilhosa! Super atenciosa e minuciosa! Clara nas explicações e didática com a criança!",
+        "data": "25 de junho de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Paula Braga de Satt",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Dra Leda é sempre muito atenciosa não somente no consultório, mas também fora. Quando preciso de ajuda com meu filho envio msg de whatasapp e ela sempre me responde. Super recomendo.",
+        "data": "28 de maio de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Elice",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Amei a consulta, foi super carinhosa com meu bebê, tirou minhas dúvidas, e me orientou em outras questões. Gostei muito",
+        "data": "14 de maio de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Doutora Jackeline",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Ótimo atendimento, super atenciosa, atendimento impecável",
+        "data": "1 de maio de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Dani Simões",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Que sorte a minha ter achado a dra Leda! Sem pressa para consulta, tira todas as dúvidas, examina com paciência, trata muito bem os pais e a criança mais ainda. O consultório é maravilhoso! A secretaria Ana é um amor. Recomendo! Podem ir e confiar seus filhos a ela de olhos fechados.",
+        "data": "28 de abril de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Meire",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Eu e meu pequenos Amamos a Dra Leda. Uma profissional excepcional, atenciosa, carinhosa, o mundo precisa de mais pessoas Assim. Que Deus te abençoe sempre.",
+        "data": "25 de abril de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Verônica",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Consulta bem detalhada, carinhosa conosco e com nosso filho, dirimindo todas as nossas dúvidas com calma e didática",
+        "data": "23 de abril de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Marcos Silva",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "A Dra. Leda é uma excelente profissional, eu e minha esposa conhecemos ela no hospital São Camilo quando levamos nossa filha ao pronto socorro, desde então decidimos continuar o acompanhamento da nossa filha com ela no particular, pois além de uma excelente profissional, é super carinhosa, atenciosa e explica detalhadamente cada assunto conversado e dúvidas retiradas por nós. Super recomento, uma profissional excelente!",
+        "data": "18 de março de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Rodrigo Hashimoto",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Dra. Leda construiu conosco uma relação baseada em confiança, dedicação e competência ímpar. Seu carisma, humanidade e trato conosco, assim como com nosso filho, trouxe o que procurávamos em uma profissional para cuidar de sua saúde. Atendimento excelente, pontualidade, fácil comunicação com o profissional. Ressalva apenas ao acesso ao estacionamento.",
+        "data": "5 de março de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Lilian couto",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Simplesmente a melhor pediatra do mundo! Cuidadosa em casa análise clínica ela é perfeita!",
+        "data": "15 de fevereiro de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Rafaella Meira",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Dra maravilhosa, Muito detalhista, cuidadosa e atenciosa. Sou grata!",
+        "data": "4 de fevereiro de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Ana paula",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "A melhor pediatra, Sabe quando a medica faz por amor o trabalho dela? Essa é a dra Leda faz por amor...tratou minha filha com muito carinho Nota 1000000000",
+        "data": "23 de janeiro de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Lais",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Consultório é super acolhedor, assim como a Dra. Nos deixou a vontade e principalmente o bebê. Ótimo atendimento, tira todas as dúvidas e da explicações detalhadas. Amamos tudo!",
+        "data": "9 de janeiro de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Bianca Morgado",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Dr Leda é muito atenciosa, acolhedora e carinhosa!",
+        "data": "4 de janeiro de 2024",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Aline",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "A Dra Leda é um amor, super profissional , tem carinho e amor pelos pequenos... Nós amamos a Dra Leda.",
+        "data": "12 de dezembro de 2023",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Leonardo Sant Anna Gomes",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Espetacular. Deu bastante atenção a minha filha e a mim. Muito simpática e nos deixou a vontade. Bem experiente.",
+        "data": "14 de novembro de 2023",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Douglas",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Profissional excelente, humana, delicada, técnica, cuidou muito bem da minha bebezinha",
+        "data": "5 de novembro de 2023",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Mariana Barbosa",
+        "tipo": "Opinião Verificada",
+        "nota": 5,
+        "review": "Dr. Leda foi extremamente atenciosa desde o primeiro minuto! Ela tirou todas as minhas dúvidas com bastante paciência e clareza, avaliou meticulosamente meu bebê e eu me senti segura sendo sua paciente.",
+        "data": "19 de setembro de 2023",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Malena Moreira",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Excelente , tira todas nossas dúvidas . Super atenciosa, meu filho se sentiu muito a vontade. Ambiente super acolhedor.",
+        "data": "22 de agosto de 2023",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Dayane",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Consulta Incrível, atualizada , competente , atenciosa , amorosa com as crianças !",
+        "data": "22 de agosto de 2023",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Paciente",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Foi muito boa. Muito atenciosa. Minha ficou feliz na consulta",
+        "data": "22 de agosto de 2023",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Carla",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Excelente profissional, muito atenciosa e competente.",
+        "data": "22 de agosto de 2023",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Tatiana",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "A Dra Leda é muito atenciosa e carinhosa. Sempre disposta a sanar todas as nossas dúvidas",
+        "data": "8 de agosto de 2023",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Mônica",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Excelente profissional, atenciosa, humana. Dra. Leda foi um anjo que entrou em nossas vida.",
+        "data": "25 de julho de 2023",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Núbia Hille",
+        "tipo": "Opinião Verificada",
+        "nota": 5,
+        "review": "Eu conheci a Dra. Leda, em um atendimento no PS infantil, onde meu filho estava em um quadro de cetoacidose. Dra. Leda, muito ágil e de prontidão já foi realizando todos os procedimentos no PS. Eu nunca vou me esquecer de você, obrigada por todo ajuda, e continue essa médica maravilhosa, empática e super humana. Te desejo toda sorte do mundo.",
+        "data": "20 de julho de 2023",
+        "local_atendimento": "outro lugar"
+    },
+    {
+        "nome": "Letícia",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Muito atenciosa, prestativa e se colocou à disposição passando seu contato particular. Examinou meu filho olhando nos seus mínimos detalhes. Ameeei",
+        "data": "11 de julho de 2023",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Aline",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Maravilhosa!!! Dra. Leda foi um achado Muito paciente e atenciosa.",
+        "data": "11 de julho de 2023",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Liz Godoy",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Excelente médica! Muito atenciosa e carinhosa com as crianças! Super recomendo!",
+        "data": "1 de julho de 2023",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Jussiara Vieira",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Excelente profissional atenciosa, carinhosa com meus (gêmeos), consulta de mais de duas horas. Muito detalhistas, Simplesmente maravilhosa!!!!",
+        "data": "17 de maio de 2023",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    },
+    {
+        "nome": "Nycolle Stephano Perez",
+        "tipo": "Consulta Verificada",
+        "nota": 5,
+        "review": "Eu e o Léo amamos a Dr Leda!! Ela é uma excelente profissional, sempre disponível para tirar dúvidas, carinhosa com o pequeno e muito paciente para explicar alguma coisa que não entendemos, como no meu caso a diferença entre os leites para intolerantes à lactose!! Obrigada por tudo!!",
+        "data": "2 de maio de 2023",
+        "local_atendimento": "Mãe Canguru Centro Pediátrico de Especialidades"
+    }
+]
